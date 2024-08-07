@@ -36,6 +36,17 @@
 <hr />
 
 <div align="center">
+    <h3>🟩 Contributions 🟩</h3>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+        <img alt="github-snake" src="github-snake.svg" />
+    </picture>
+</div>
+
+<hr />
+
+<div align="center">
     <h3>⚡ Stats ⚡</h3>
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Gin-Arata&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
