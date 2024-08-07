@@ -18,8 +18,10 @@
     💬 Ask me about **React.js, Express.js, Next.js, Laravel or anything in <a href="https://github.com/Gin-Arata/Gin-Arata/issues">here</a>**
 </div>
 
+<hr />
+
 <div align="center">
-    <h3>📖 Contact Me 📖</h3>
+    <h3>📖 Contact 📖</h3>
     <p>Feel free to reach out me in below social media</p>
     <div>
         <a href="https://www.linkedin.com/in/gaco-razan-kamil-374296255/">
@@ -29,6 +31,18 @@
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
         </a>
     </div>
+</div>
+
+<hr />
+
+<div align="center">
+    <h3>⚡ Stats ⚡</h3>
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=Gin-Arata&theme=dark&hide_border=true" alt="GitHub Streak"/>
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats-gin-aratas-projects.vercel.app//api?username=Gin-Arata&theme=dark" />
+    </a>
 </div>
 
 <!--
