@@ -41,7 +41,7 @@
         <img src="https://streak-stats.demolab.com?user=Gin-Arata&theme=dark&hide_border=true" alt="GitHub Streak"/>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats-gin-aratas-projects.vercel.app//api?username=Gin-Arata&theme=dark&show_icons=true" />
+        <img src="https://github-readme-stats-gin-aratas-projects.vercel.app//api?username=Gin-Arata&theme=dark&show_icons=true&rank_icon=github" />
     </a>
 </div>
 
