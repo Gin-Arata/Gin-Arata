@@ -15,7 +15,7 @@
     <br/>
     🌱 I’m currently learning **React.js, Express.js, and Next.js**
     <br/>
-    💬 Ask me about **React.js, Express.js, Next.js, Laravel or anaything in [here](https://github.com/Gin-Arata/Gin-Arata/issues)**
+    💬 Ask me about **React.js, Express.js, Next.js, Laravel or anything in <a href="https://github.com/Gin-Arata/Gin-Arata/issues">here</a>**
 </div>
 
 <!--
