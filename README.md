@@ -18,6 +18,19 @@
     💬 Ask me about **React.js, Express.js, Next.js, Laravel or anything in <a href="https://github.com/Gin-Arata/Gin-Arata/issues">here</a>**
 </div>
 
+<div align="center">
+    <h3>📖 Contact Me 📖</h3>
+    <p>Feel free to reach out me in below social media</p>
+    <div>
+        <a href="https://www.linkedin.com/in/gaco-razan-kamil-374296255/">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+        <a href="https://www.instagram.com/gin_arata">
+            <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+        </a>
+    </div>
+</div>
+
 <!--
 **Gin-Arata/Gin-Arata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
