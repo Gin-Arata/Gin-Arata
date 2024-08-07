@@ -38,9 +38,9 @@
 <div align="center">
     <h3>🟩 Contributions 🟩</h3>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-        <img alt="github-snake" src="github-snake.svg" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gin-Arata/Gin-Arata/output/github-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gin-Arata/Gin-Arata/output/github-snake.svg" />
+        <img alt="github-snake" src="https://raw.githubusercontent.com/Gin-Arata/Gin-Arata/output/github-snake-dark.svg" />
     </picture>
 </div>
 
