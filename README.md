@@ -12,9 +12,9 @@
 
 <div align="center">
     🔭 I’m currently working on **Project Ujung Tanduk**
-
+    <br/>
     🌱 I’m currently learning **React.js, Express.js, and Next.js**
-    
+    <br/>
     💬 Ask me about **React.js, Express.js, Next.js, Laravel or anaything in [here](https://github.com/Gin-Arata/Gin-Arata/issues)**
 </div>
 
