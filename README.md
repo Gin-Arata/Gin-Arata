@@ -30,7 +30,7 @@
         <a href="https://www.instagram.com/gin_arata">
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
         </a>
-        <a href="https://www.instagram.com/gin_arata">
+        <a href="https://www.gacorazan.my.id">
             <img src="https://img.shields.io/badge/My%20Website-2694E8?style=for-the-badge&logo=webtrees&logoColor=ffffff" alt="My Website" />
         </a>
         <a href="https://www.discordapp.com/users/720485692987408415">
