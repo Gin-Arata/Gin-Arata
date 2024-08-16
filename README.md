@@ -11,11 +11,11 @@
 <br/>
 
 <div align="center">
-    🔭 I’m currently working on **Project Ujung Tanduk**
+    🔭 I’m currently working on <b>Project Ujung Tanduk</b>
     <br/>
-    🌱 I’m currently learning **Express.js, Next.js, and Python**
+    🌱 I’m currently learning <b>Express.js, Next.js, and Python</b>
     <br/>
-    💬 Ask me about **React.js, Express.js, Next.js, Laravel or anything in <a href="https://github.com/Gin-Arata/Gin-Arata/issues">here</a>**
+    💬 Ask me about <b>React.js, Express.js, Next.js, Laravel or anything in <a href="https://github.com/Gin-Arata/Gin-Arata/issues">here</a></b>
 </div>
 
 <hr />
