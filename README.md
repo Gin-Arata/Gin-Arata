@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-    🔭 I’m currently working on <b>Project Ujung Tanduk</b>
+    🔭 I’m currently working on <b>Detecting Resume Project</b>
     <br/>
     🌱 I’m currently learning <b>Express.js, Next.js, and Python</b>
     <br/>
