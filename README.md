@@ -53,10 +53,10 @@
 <hr />
 
 <h3 align="center">⚡ Stats ⚡</h3>
-<div style="width: full; display: flex; justify-content: between; align-items: center;">
+<div style="width: 430px; display: flex; justify-content: between; align-items: center;">
     <a href="https://git.io/streak-stats"><img width="420" height="185" src="https://streak-stats.demolab.com?user=Gin-Arata&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img width="420" height="165" src="https://github-readme-stats-gin-aratas-projects.vercel.app//api?username=Gin-Arata&theme=vision-friendly-dark&show_icons=true&rank_icon=github&hide_border=true" />
+        <img width="420" height="185" src="https://github-readme-stats-gin-aratas-projects.vercel.app//api?username=Gin-Arata&theme=vision-friendly-dark&show_icons=true&rank_icon=github&hide_border=true" />
     </a>
 </div>
 
