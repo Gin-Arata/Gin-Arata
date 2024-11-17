@@ -13,7 +13,7 @@
 <div align="center">
     🔭 I’m currently working on <b>Skinassist Project</b>
     <br/>
-    🌱 I’m currently learning <b>Express.js, Next.js, and Python</b>
+    🌱 I’m currently learning <b>Express.js, Next.js, Python, and NestJS</b>
     <br/>
     💬 Ask me about <b>React.js, Express.js, Next.js, Laravel or anything in <a href="https://github.com/Gin-Arata/Gin-Arata/issues">here</a></b>
 </div>
